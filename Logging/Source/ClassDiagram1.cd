@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bupa.BGMU.Infrastructure.Logging.Logger">
+    <Position X="4.75" Y="1.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAQAAAAAAAAAAAAABAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bupa.BGMU.Infrastructure.Logging.AiLogger">
+    <Position X="0.5" Y="3.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAQAAAAAAAAAACAABAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>AiLogger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bupa.BGMU.Infrastructure.Logging.ExceptionUtilities">
+    <Position X="5" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAQAAIAAAAAAABAAAAAAAAAgAAAAAgAA=</HashCode>
+      <FileName>ExceptionUtilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Bupa.BGMU.Infrastructure.Logging.ILogger">
+    <Position X="0.5" Y="1.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAQAAAAAAAAAAAAABAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>ILogger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
