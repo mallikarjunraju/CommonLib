@@ -260,7 +260,7 @@ namespace Common.Logging
         #endregion
 
         /// <summary>
-        /// Tracks the event.
+        /// Tracks the events.
         /// </summary>
         /// <param name="eventName">Name of the event.</param>
         /// <param name="properties">The properties.</param>
